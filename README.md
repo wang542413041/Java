@@ -1,7 +1,7 @@
 # code2java
 
-## Java 流(Stream)、文件（File)、IO
-* Java 流、文件、IO
+### Java 流(Stream)、文件（File)、IO
+* Java 流、文件、IO ： 2017.09.07
 	* fileStreamTest.Java
 		* 输入流：FileInputStream、InputStramReader
 		* 输出流：FileOutputStream、OutputStreamWriter
@@ -18,7 +18,3 @@
 		* 是文件夹递归调用删除文件夹方式
 		* 不是文件夹调用f.delete();删除
 		* 文件夹空的时候文件夹调用floder.delete();
-
-|日期|内容|
-|----|----|
-|2017.09.07|Java流、文件和IO|
